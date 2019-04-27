@@ -1,0 +1,104 @@
+/*
+ * Student: Ibrahim Jomaa | 300911528
+ * Student: Ahud Mohammed | 301029718
+ * Date: 4/15/2019
+ * 
+ * Filename: index_external.css
+ */
+
+body {
+  font-family: Verdana;
+  font-size: 0.72em;
+}
+
+#banner {
+  display: block;
+  margin: auto;
+}
+
+header {
+  clear: both;
+  margin: 0 0 1em 0;
+  text-align: center;
+  width: 75em;
+}
+
+h3, h5 {
+  margin: 0;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+h3 {
+  color:#2E3442;
+  font-size: 5em;
+}
+
+#hereComesElonMusk {
+  margin: 0 0 0 0;
+  color:#2E3442;
+  font-weight: bold;
+  height: 1rem;
+}
+
+#mainContent {
+  background-color: #EBEDF2;
+  border: 0.2em solid;
+  box-shadow: 0.625em 0.625em 0.438em;
+  margin: 1em auto 5em auto;
+  padding: 2em 4em 1em 4em;
+  width: 75em;
+  height: auto;
+}
+
+#name {
+  margin: 0.2em 0 0.2em 0;
+  font-size: 1.75em;
+  font-weight: bold;
+  height: 1.2em;
+}
+
+#bio {
+  margin: 0 0 0 0;
+  height: 4em;
+  font-size: 1.1em;
+}
+
+#photoArea {
+  text-align: center;
+  position: relative;
+  height: 26.25rem;
+  margin-bottom: 1em;
+}
+
+#photoArea img {
+  width: 31.25rem;
+  height: 25rem;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  margin: 0 auto 0 auto;
+  box-shadow: 0.625em 0.625em 0.438em;
+}
+
+#buttonArea {
+  text-align: center;
+}
+
+#updateButtonArea {
+  margin-top: 0.4em;
+}
+
+#updateButtonArea p {
+  font-size: 1.4em;
+  margin-top: 0.5em;
+  margin-bottom: 0;
+}
+
+.buttons {
+  display: inline-block;
+  font-size: 1.4em;
+  font-family: Verdana;
+}

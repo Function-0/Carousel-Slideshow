@@ -1,0 +1,38 @@
+[
+  {
+    "path": "images/will_smith.jpg",
+    "name": "Will Smith",
+    "bio": "Willard Carroll Smith II is an American actor, rapper and media personality. In April 2007, Newsweek called him \"the most powerful actor in Hollywood\". Smith has been nominated for five Golden Globe Awards and two Academy Awards, and has won four Grammy Awards.",
+    "time": 3000
+  },
+  {
+    "path": "images/nina_dobrev.jpg",
+    "name": "Nina Dobrev",
+    "bio": "Nikolina Konstantinova Dobreva, known professionally as Nina Dobrev, is a Canadian actress. Her first acting role was as Mia Jones in the drama series Degrassi: The Next Generation.",
+    "time": 4000
+  },
+  {
+    "path": "images/ian_somerhalder.jpg",
+    "name": "Ian Somerhalder",
+    "bio": "Ian Joseph Somerhalder is an American actor. He played Boone Carlyle in the TV drama Lost and Damon Salvatore in The CW's supernatural drama The Vampire Diaries.",
+    "time": 5000
+  },
+  {
+    "path": "images/priyanka_chopra.jpg",
+    "name": "Priyanka Chopra",
+    "bio": "Priyanka Chopra Jonas is an Indian actress, singer, film producer, and the winner of the Miss World 2000 pageant. One of India's highest-paid and most popular celebrities, Chopra has received numerous awards, including a National Film Award and five Filmfare Awards.",
+    "time": 4000
+  },
+  {
+    "path": "images/jason_momoa.jpg",
+    "name": "Jason Momoa",
+    "bio": "Joseph Jason Namakaeha Momoa is an American actor. He is known for portraying Aquaman in the DC Extended Universe, beginning with the 2016 superhero film Batman v Superman: Dawn of Justice, and in the 2017 ensemble Justice League and his 2018 solo film Aquaman. In Baywatch Hawaii, he portrayed Lifeguard Jason Ioane.",
+    "time": 3000
+  },
+  {
+    "path": "images/elon_musk.jpg",
+    "name": "Elon Musk",
+    "bio": "Elon Reeve Musk FRS is a technology entrepreneur, investor, and engineer. He holds South African, Canadian, and U.S. citizenship and is the founder, CEO, and lead designer of SpaceX; co-founder, CEO, and product architect of Tesla, Inc.; co-founder and CEO of Neuralink; founder of The Boring Company; co-founder and co-chairman of OpenAI; and co-founder of PayPal.",
+    "time": 6000
+  }
+]
